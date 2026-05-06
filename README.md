@@ -1,10 +1,5 @@
 # CFARNet: Learning-Based High-Resolution Multi-Target Detection for Rainbow Beam Radar
 
-## Related Publication
-
-📄 **Paper**: [CFARNet: Learning-Based High-Resolution Multi-Target Detection for Rainbow Beam Radar](https://arxiv.org/abs/2505.10150)
-
-*Qiushi Liang, Yeyue Cai, Jianhua Mo, Meixia Tao*
 
 This repository provides the implementation for **CFARNet**, a deep learning-based framework for radar signal processing. CFARNet replaces the traditional CFAR (Constant False Alarm Rate) detector with a Convolutional Neural Network (CNN) to detect peaks in the angle-Doppler domain, significantly improving multi-target detection performance in high-resolution rainbow beam radar systems.
 
